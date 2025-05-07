@@ -1,4 +1,4 @@
-package minho.week02;
+package minho.week01;
 
 // https://www.acmicpc.net/problem/1377
 // 2025.04.29

@@ -1,4 +1,4 @@
-package minho.week02;
+package minho.week01;
 
 // https://www.acmicpc.net/problem/11399
 

@@ -9,5 +9,8 @@ KOSA Coding Study 레포지토리입니다.
 
 | 분류       | 문제        | 링크               | 날짜     |
 |------------|-------------|--------------------|----------|
-| 2025-04-30 | 업데이트    | 주요 기능 추가 완료 | 완료     |
-| 2025-05-01 | 버그 수정   | 로그인 오류 수정    | 확인 필요 |
+| BOJ | 1517 버블소트    | https://www.acmicpc.net/problem/1517 | 2025-05-05    |
+| BOJ | 10989 수정렬하기3  | https://www.acmicpc.net/problem/10989  | 2025-05-06 |
+| BOJ | 11724 연결 요소의 개수  | https://www.acmicpc.net/problem/11724  | 2025-05-07 |
+| BOJ | 2023 신기한 소수  | https://www.acmicpc.net/problem/2023  | 2025-05-08 |
+| BOJ | 13023 ABCDE | https://www.acmicpc.net/problem/13023  | 2025-05-09 |

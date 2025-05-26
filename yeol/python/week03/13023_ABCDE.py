@@ -1,6 +1,6 @@
 import sys
 n,m= map(int, input().split())  # 첫 줄: 정점 수 N, 간선 수 M
-A = [list(map(int, input().split())) for _ in range(M)]
+A = [list(map(int, input().split())) for _ in range(m)]
 
 # dfs 탐색
 def dfs(v, depth):

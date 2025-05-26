@@ -20,7 +20,7 @@ KOSA Coding Study 레포지토리입니다.
 | BOJ | 1920 수 찾기 | https://www.acmicpc.net/problem/1920  | 2025-05-23 까지 |
 | BOJ | 2343 기타레슨 | https://www.acmicpc.net/problem/2343  | 2025-05-23 까지 |
 | BOJ | 1300 K번째 수 | https://www.acmicpc.net/problem/1300  | 2025-05-26 |
-| 책 | 197p. 동전개수 구하기 | 그리디 개념 익히기  | 2025-05-27 |
+| BOJ | 동전0 | https://www.acmicpc.net/problem/11047  | 2025-05-27 |
 | BOJ | 1715 카드 정렬하기 | https://www.acmicpc.net/problem/1715  | 2025-05-28 |
 | BOJ | 1744 수 묶기 | https://www.acmicpc.net/problem/1744  | 2025-05-29 |
 | BOJ | 1931 회의실 배정 | https://www.acmicpc.net/problem/1931  | 2025-05-30 |

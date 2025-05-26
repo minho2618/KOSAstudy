@@ -1,4 +1,4 @@
-package minho.week03;
+package minho.week02;
 
 // https://www.acmicpc.net/problem/2178
 
@@ -41,10 +41,10 @@ public class Baekjoon2178 {
         int dy = 0;
 
         Queue<Integer> queue = new LinkedList<>();
-        queue.add();
-        while (!queue.isEmpty()) {
-
-        }
+//        queue.add();
+//        while (!queue.isEmpty()) {
+//
+//        }
 
 
         System.out.println(queue.size());

@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-      {
-        "type": "java",
-        "name": "Launch Main with package",
-        "request": "launch",
-        "mainClass": "seacrab808.week01.Main"
-      }
-    ]
-  }
-  
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch current file",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "cwd": "${fileDirname}"
+    }
+  ]
+}

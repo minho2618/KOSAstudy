@@ -1,4 +1,4 @@
-package minho.week01;
+package minho.week02;
 
 import java.io.BufferedReader;
 import java.io.IOException;

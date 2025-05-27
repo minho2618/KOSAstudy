@@ -1,3 +1,5 @@
+package niftron.week_02;
+
 import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

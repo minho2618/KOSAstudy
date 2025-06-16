@@ -1,3 +1,5 @@
+package niftron.week_02;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
@@ -61,9 +63,6 @@ public class Main_13023 {
         }
     }
     
-
-
-
     public static void main(String[] args) throws Exception{
         input();
         solve();
